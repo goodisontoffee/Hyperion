@@ -106,6 +106,8 @@ _TeamCity*
 # NCrunch
 _NCrunch_*
 .*crunch*.local.xml
+*.ncrunchproject
+*.ncrunchsolution
 
 # MightyMoose
 *.mm.*
@@ -166,6 +168,8 @@ ClientBin/
 *.publishsettings
 node_modules/
 bower_components/
+.dotnet/
+tools/
 
 # RIA/Silverlight projects
 Generated_Code/
